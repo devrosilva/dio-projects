@@ -1,0 +1,26 @@
+body {
+    font: 20px Helvetica;
+}
+
+.navbar{
+    background-color:olive;
+}
+
+.about-us {
+    background-color:seashell;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.partiners {
+    background-color:lightgrey;
+    padding-bottom: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: lightcyan;
+}
