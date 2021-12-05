@@ -1,6 +1,6 @@
-var currentNumber = document.getElementById('currentNumber');
-var subtract = document.getElementById('subtract');
-var add = document.getElementById('add');
+let currentNumber = document.getElementById('currentNumber');
+let subtract = document.getElementById('subtract');
+let add = document.getElementById('add');
 
 function decrement(){
     if(currentNumber.innerHTML > 0){
