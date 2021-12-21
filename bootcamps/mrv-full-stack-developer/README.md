@@ -1,5 +1,5 @@
-# Bootcamp MRV Fullstack Developer
-<p>This repository contains exercises solved while I was doing the Bootcamp MRV Fullstack Developer.</p>
+# MRV Fullstack Developer
+<p>This repository contains exercises solved while I was doing the MRV Fullstack Developer Bootcamp.</p>
 
 ## Exercises in resolution order:
 - bootstrap
