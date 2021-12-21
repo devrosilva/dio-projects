@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+D:\Estudos\DIO\Bootcamps\Inter\workplace\.metadata\.plugins\org.eclipse.jdt.core
-280018949.index
-290556886.index
-4244523036.index
-3927496509.index
-505143951.index
