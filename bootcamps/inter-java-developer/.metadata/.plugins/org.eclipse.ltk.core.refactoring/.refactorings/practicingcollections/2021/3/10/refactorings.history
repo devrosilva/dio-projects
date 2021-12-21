@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;practicingcollections.DioCollectionsExerciseOne&apos; to &apos;PracticingCollections&apos;&#x0D;&#x0A;- Original project: &apos;practicingcollections&apos;&#x0D;&#x0A;- Original element: &apos;practicingcollections.DioCollectionsExerciseOne&apos;&#x0D;&#x0A;- Renamed element: &apos;practicingcollections.PracticingCollections&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DioCollectionsExerciseOne&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;practicingcollections{DioCollectionsExerciseOne.java[DioCollectionsExerciseOne" matchStrategy="1" name="PracticingCollections" qualified="false" references="true" similarDeclarations="false" stamp="1615061089806" textual="false" version="1.0"/>
+</session>
