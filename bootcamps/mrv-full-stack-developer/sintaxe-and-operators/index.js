@@ -1,5 +1,5 @@
 //Exercise
-//Create a function that receives two numbers, does some comperason and shows the result.
+//Create a function that receives two numbers, does some comparison and shows the result.
 function compareNumbers(firstNumber, secondNumber){
    
     const isEven = firstNumber === secondNumber ? "are equal" : "are not equal";
