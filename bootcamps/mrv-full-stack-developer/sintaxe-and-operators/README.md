@@ -5,8 +5,8 @@
 ## Exercise
 
 - Create a function that receives two numbers as parameters;
-- Verify if the numbers are even;
-- Verify if their sum is higher than 10 or less than 20;
+- Verify if the numbers are equal;
+- Verify if their sum is greater than 10 or less than 20;
 - Return a string which says: The numbers num1 and num2 are/aren't equal. Their sum is (variable sum), which is greater/less than 10 and greater/less than 20.
 
 Ex.: 
