@@ -5,3 +5,6 @@
 - bootstrap
 - js-introduction
 - sintaxe-and-operators 
+- functions
+- collections
+- error-handling
